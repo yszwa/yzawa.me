@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "A simple links theme for Hugo built with Tailwind CSS"
   # image = "author.jpg"
   links = [
-    { github = "https://github.com/jpanther/lynx" },
+    { github = "https://github.com/jpanther/" },
   ]
 
 [markup.highlight]
