@@ -1,6 +1,0 @@
-[submodule "themes/lynx"]
-	path = themes/lynx
-	url = https://github.com/yszwa/lynx.git
-[submodule "yzawa.me"]
-	path = yzawa.me
-	url = https://github.com/yszwa/yzawa.me.git
