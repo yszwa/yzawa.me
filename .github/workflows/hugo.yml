@@ -24,7 +24,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        working-directory: ./exampleSite
+        working-directory: ./
         run: hugo --minify --themesDir ../.. --baseURL https://yzawa.me/
 
       - name: Deploy
