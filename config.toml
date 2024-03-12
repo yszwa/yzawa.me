@@ -1,6 +1,6 @@
 theme = "lynx"
 title = "Lynx"
-baseURL = 'localhost'
+baseURL = 'https://yzawa.me/'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "A simple links theme for Hugo built with Tailwind CSS"
   # image = "author.jpg"
   links = [
-    { github = "https://github.com/jpanther/" },
+    { github = "https://github.com/yszwa/" },
   ]
 
 [markup.highlight]
