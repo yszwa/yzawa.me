@@ -25,7 +25,7 @@ jobs:
 
       - name: Build
         working-directory: ./
-        run: hugo --minify --themesDir ../.. --baseURL https://yzawa.me/
+        run: hugo --minify --baseURL https://yzawa.me/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
