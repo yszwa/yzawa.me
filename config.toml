@@ -1,14 +1,14 @@
 theme = "lynx"
-title = "Lynx"
+title = "yzawa"
 baseURL = 'https://yzawa.me/'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  name = "Lynx"
-  headline = "A simple links theme for Hugo built with Tailwind CSS"
-  # image = "author.jpg"
+  name = "Yasuzawa, Mikichika"
+  headline = "A Japanese College Student"
+  image = "logo.webp"
   links = [
     { github = "https://github.com/yszwa/" },
   ]
